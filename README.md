@@ -1,4 +1,4 @@
-## 코딩 테스트 대비 알고리즘
+## 💡코딩 테스트 대비 알고리즘
 
 <details markdown="1">
 <summary>그리디</summary>
@@ -37,10 +37,19 @@ BFS<br>
 삽입정렬<br>
 퀵정렬<br>
 계수정렬<br>
-퀵정렬<br>
 파이썬 정렬 라이브러리<br>
 위에서 아래로<br>
 성적순으로<br>
 두 배열의 원소교체<br>
+
+</details>
+
+<details markdown="1">
+<summary>이진 탐색</summary>
+
+순차 탐색<br>
+이진 탐색<br>
+부품 찾기<br>
+떡볶이 떡 만들기<br>
 
 </details>
