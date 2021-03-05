@@ -53,3 +53,24 @@ BFS<br>
 떡볶이 떡 만들기<br>
 
 </details>
+
+<details markdown="1">
+<summary>다이나믹 프로그래밍</summary>
+
+1로 만들기<br>
+개미 전사<br>
+바닥 공사<br>
+효율적인 화폐 구성<br>
+
+</details>
+
+<details markdown="1">
+<summary>최단 경로</summary>
+
+다익스트라<br>
+개선된 다익스트라<br>
+플로이드 워셜<br>
+미래 도시<br>
+전보<br>
+
+</details>
