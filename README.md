@@ -7,6 +7,9 @@
 1이 될 때까지<br>
 큰 수의 법칙<br>
 숫자 카드 게임<br>
+모험가 길드<br>
+곱하기 혹은 더하기<br>
+문자열 뒤집기<br>
 
 </details>
 
@@ -72,5 +75,18 @@ BFS<br>
 플로이드 워셜<br>
 미래 도시<br>
 전보<br>
+
+</details>
+
+<details markdown="1">
+<summary>그래프 이론</summary>
+
+서로소 집합<br>
+사이클 판별<br>
+크루스칼 알고리즘<br>
+위상 정렬<br>
+팀 결성<br>
+도시 분할 계획<br>
+커리큘럼<br>
 
 </details>
